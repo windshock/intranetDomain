@@ -1,0 +1,4 @@
+/.git/config/index.html
+/utility/convert/data/config.inc.php
+/admin/phpmyadmin/scripts/setup.txt 
+
